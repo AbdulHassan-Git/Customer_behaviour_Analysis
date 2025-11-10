@@ -26,29 +26,29 @@ Tool	Purpose
   - 💾 GitHub	Version control and portfolio hosting    
 ________________________________________
 ## 🪜 Project Steps    
-1️⃣ Data Preparation (Python)    
+## 1️⃣ Data Preparation (Python)    
    - Loaded and explored the dataset using Pandas.  
    - Handled missing values and standardized column names.  
    - Engineered new features such as age group and customer segments.  
    - Exported the cleaned dataset to SQL Server for analysis.    
-2️⃣ Exploratory Data Analysis (EDA)   
+## 2️⃣ Exploratory Data Analysis (EDA)   
    - Conducted summary statistics and visualized spending distributions.  
    - Examined correlations between age, gender, spending, and discounts.  
    - Identified outliers and behavioural trends.  
-3️⃣ SQL Analysis  
+## 3️⃣ SQL Analysis  
 Executed SQL queries to answer 10+ business questions, such as:  
    - Revenue contribution by gender and age group.  
    - Do subscribers spend more?  
    - Which products have the best review ratings?  
    - What are the top 3 purchased products per category?  
-   - What’s the revenue contribution by age group?
-4️⃣ Power BI Dashboard  
+   - What’s the revenue contribution by age group?   
+## 4️⃣ Power BI Dashboard  
 Created an interactive dashboard summarizing:  
    - Revenue by gender, age, and product category.  
    - Subscription and shipping insights.  
    - Customer segmentation (New, Returning, Loyal).  
    - Top products by sales and review rating.  
-5️⃣ Report & Presentation  
+## 5️⃣ Report & Presentation  
    - Compiled key findings and insights in a professional report (.docx).  
    - Designed a Gamma presentation to communicate insights effectively to stakeholders.  
 ________________________________________
@@ -68,10 +68,10 @@ ________________________________________
 ## 🧩 How to Run This Project  
   1.	Clone this repository:  
   2.	git clone https://github.com/AbdulHassan-Git/Customer-Shopping-Behaviour-Analysis.git  
-  3.	Open the Jupiter Notebook  
+  3.	Open the Jupiter Notebook    
     - Run all cells in Customer_Shoping_Behavior_Analysis.ipynb to clean and prepare the dataset.  
   4.	Load data into SQL Server  
-  - Execute queries from Business Questions_SQL.sql for analysis.  
+    - Execute queries from Business Questions_SQL.sql for analysis.  
   5. Open the Power BI Dashboard  
     - Explore interactive visuals in Customer_Behavior_Dashboard.pbix.  
   6. Review Deliverables  
